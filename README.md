@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @m62624
-- 👀 I’m interested in Linux
-- 🌱 I'm currently learning Rust
+**йобибайт**
